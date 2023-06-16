@@ -51,7 +51,7 @@ function makeSound(key) {
         break;
     
         default:
-            console.log(key)
+            //console.log(key)
         break;
     }
 }
