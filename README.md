@@ -1,2 +1,2 @@
 # Drum Kit DOM
- This my Javascript Course completion project. DOM with Angela YU
+ This my Javascript Course completion project. DOM Challenge with Angela YU
