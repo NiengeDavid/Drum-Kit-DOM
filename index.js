@@ -57,7 +57,7 @@ function makeSound(key) {
 }
 
 function animateButton(currentKey){
-    const animate = document.querySelector("." + currentKey);
+    const animate = document.querySelector("." + currentKey.toLowerCase());
     animate.classList.add("pressed");
     setTimeout(function(){
         animate.classList.remove("pressed");
